@@ -2,28 +2,35 @@
 
 This one was developed using the MVC architecture.
 
-## config:
+## Config:
 
 
 This file where we are going to define the port of the api
 
 └── server.js
 
-## controllers:
+## Controllers:
 
 This part where all the logic part of the API is:
+
+
 
 ├── src                   
 ├── controllers
 └── apiControllers
 
+
+
 This part where the routes are defined:
 
 ## Routes:
 
+
+
 ├── src                   
 ├── routers
 └── apiRoutes
+
 
 Route 1:
 
