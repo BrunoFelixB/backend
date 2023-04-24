@@ -52,7 +52,7 @@ Return a list with all user repositories
 
 ## Run the project
 
-Project Clone git clone: `https://github.com/BrunoFelixB/dashbaoard-admin-react.git`
+Project Clone git clone: `https://github.com/BrunoFelixB/backend-test.git`
 
 install the dependencies using:`npm`
 
